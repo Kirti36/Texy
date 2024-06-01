@@ -1,0 +1,16 @@
+README.md
+setup.py
+src/Texy/__init__.py
+src/Texy/components.py
+src/Texy.egg-info/PKG-INFO
+src/Texy.egg-info/SOURCES.txt
+src/Texy.egg-info/dependency_links.txt
+src/Texy.egg-info/top_level.txt
+src/Texy/config/__init__.py
+src/Texy/config/configuration.py
+src/Texy/constant/__init__.py
+src/Texy/entity/__init__.py
+src/Texy/logging/__init__.py
+src/Texy/pipeline/__init__.py
+src/Texy/utils/__init__.py
+src/Texy/utils/common.py
